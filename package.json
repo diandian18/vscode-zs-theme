@@ -1,7 +1,7 @@
 {
     "name": "zs-theme",
     "displayName": "ZS Theme",
-    "description": "a beautiful theme for JSer/TSer",
+    "description": "A pretty vscode theme for JSer/TSer",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.48.0"
