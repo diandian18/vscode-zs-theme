@@ -15,7 +15,7 @@ Launch Quick Open:
 Paste the following command and press Enter:
 
 ```bash
-ext install material theme
+ext install ZS Theme
 ```
 
 And pick the one by **zhang-sai** as author.
