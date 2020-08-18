@@ -1,0 +1,22 @@
+{
+    "name": "zs-theme",
+    "displayName": "ZS Theme",
+    "description": "a beautiful theme for JSer/TSer",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "icon": "icon.svg",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ZS Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ZS_Night.tmTheme"
+            }
+        ]
+    }
+}
