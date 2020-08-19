@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>salle</string>
+	<string>ZS Nignt Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -46,7 +46,6 @@
 				<string>#798188</string>
 			</dict>
 		</dict>
-        
 		<dict>
 			<key>name</key>
 			<string>Python Docstring</string>
@@ -58,7 +57,6 @@
 				<string>#798188</string>
 			</dict>
 		</dict>
-      
 		<dict>
 			<key>name</key>
 			<string>html/jsx/tsx tag name(entity.name.tag)</string>
@@ -72,7 +70,6 @@
 				<string>bold</string>
 			</dict>
 		</dict>
-        
 		<dict>
 			<key>name</key>
 			<string>text in tags</string>
@@ -336,7 +333,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>语句关键字keyword.control/声明关键字storage.type/import关键字keyword.operator.module.js/ES6 String ${} if..else return try continue</string>
+			<string>keyword.control/storage.type/keyword.operator.module.js/ES6 String ${} if..else return try continue</string>
 			<key>scope</key>
 			<string>keyword.control, storage.type, keyword.operator.module.js, keyword.other.substitution, storage.modifier.tsx, switch-statement.expr.ts variable.other.readwrite.ts, switch-statement.expr.tsx variable.other.readwrite.tsx, switch-statement.expr.ts entity.name.function.ts, switch-statement.expr.tsx entity.name.function.tsx, keyword.control.loop.ts, keyword.control.loop.tsx, storage.modifier.async.ts, storage.modifier.async.tsx</string>
 			<key>settings</key>
@@ -360,7 +357,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>entity.name.class.js 声明的class名 ts类名</string>
+			<string>class name</string>
 			<key>scope</key>
 			<string>entity.name.class.js, entity.name.type.class, variable.other.class.js, entity.name.type.module.tsx, entity.other.inherited-class</string>
 			<key>settings</key>
@@ -699,13 +696,11 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>13E579BF-40AB-42E2-9EAB-0AD3EDD88532</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
 	<string>theme.dark.plastic_code_wrap</string>
 	<key>author</key>
-	<string></string>
+	<string>Zhang Sai</string>
 </dict>
 </plist>
