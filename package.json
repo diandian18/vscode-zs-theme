@@ -2,7 +2,7 @@
     "name": "zs-theme",
     "displayName": "ZS Theme",
     "description": "A pretty vscode theme for JSer/TSer",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "0.10.x"
     },
@@ -18,9 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "ZS Theme",
+                "label": "ZS Night Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ZS_Night.tmTheme"
+            },
+            {
+                "label": "ZS Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/ZS_Light.tmTheme"
             }
         ]
     }
