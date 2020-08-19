@@ -2,12 +2,12 @@
     "name": "zs-theme",
     "displayName": "ZS Theme",
     "description": "A pretty vscode theme for JSer/TSer",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "0.10.x"
     },
     "publisher": "zhang-sai",
-    "icon": "icon.png",
+    "icon": "icon.jpeg",
     "repository": {
 		"type": "git",
 		"url": "https://github.com/diandian18/vscode-zs-theme.git"
