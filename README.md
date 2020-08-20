@@ -32,6 +32,12 @@ A pretty vscode theme for JSer/TSer. Hope you will like!
 
 ## Getting started
 
+**Notice that:**
+the theme should work with this grammar extensions:
+https://github.com/joshpeng/Sublime-Babel-VSCode
+Or you will not get the right color what the demo shows.
+So we will support default vscode javascript grammar very soon!
+
 ### Installation
 
 Launch Quick Open:
