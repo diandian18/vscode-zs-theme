@@ -133,7 +133,7 @@
 			<key>name</key>
 			<string>Meta.tag.A</string>
 			<key>scope</key>
-			<string>declaration.tag, declaration.tag entity, meta.tag, meta.tag entity</string> 
+			<string>declaration.tag, declaration.tag entity, meta.tag</string> 
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
