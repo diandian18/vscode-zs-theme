@@ -1,6 +1,6 @@
 # ZS Theme
 
-A pretty vscode theme for JSer/TSer. Hope you will like!
+🎨 A pretty vscode theme for JSer/TSer. Hope you will like!
 
 **Night theme:**
 ![demo](./assets/zs-theme-night-demo.jpeg)
@@ -31,12 +31,6 @@ A pretty vscode theme for JSer/TSer. Hope you will like!
 - ![#525044](https://placehold.it/15/525044/000000?text=+) HTML or JSX Angle brackets
 
 ## Getting started
-
-**Notice that:**
-the theme should work with this grammar extensions:
-https://github.com/joshpeng/Sublime-Babel-VSCode
-Or you will not get the right color what the demo shows.
-So we will support default vscode javascript grammar very soon!
 
 ### Installation
 

@@ -10,7 +10,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key> 
-				<string>#26292C</string>
+				<string>#272a2b</string>
 				<key>caret</key> 
 				<string>#BBBCBD</string>
 				<key>foreground</key> 
@@ -335,7 +335,10 @@
 			<key>name</key>
 			<string>keyword.control/storage.type/keyword.operator.module.js/ES6 String ${} if..else return try continue</string>
 			<key>scope</key>
-			<string>keyword.control, storage.type, keyword.operator.module.js, keyword.other.substitution, storage.modifier.tsx, switch-statement.expr.ts variable.other.readwrite.ts, switch-statement.expr.tsx variable.other.readwrite.tsx, switch-statement.expr.ts entity.name.function.ts, switch-statement.expr.tsx entity.name.function.tsx, keyword.control.loop.ts, keyword.control.loop.tsx, storage.modifier.async.ts, storage.modifier.async.tsx</string>
+			<string>
+        keyword.control, storage.type, keyword.operator.module.js, keyword.other.substitution, storage.modifier.tsx, switch-statement.expr.ts variable.other.readwrite.ts, switch-statement.expr.tsx variable.other.readwrite.tsx, switch-statement.expr.ts entity.name.function.ts, switch-statement.expr.tsx entity.name.function.tsx, keyword.control.loop.ts, keyword.control.loop.tsx, storage.modifier.async.ts, storage.modifier.async.tsx,
+        punctuation.decorator
+      </string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
